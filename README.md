@@ -9,9 +9,9 @@ Pornnakanok Phuphatham
 5. cd.. = changing directory 1 step, cd../.. = changing directory 2 step
 6. clear = clear
 7. rm -R, rm = remove the file from a directory
-8. vi = Open or edit a file
-   i = Switch to Insert mode
-   esc = Switch to Command mode
+8. vi = Open or edit a file, 
+   i = Switch to Insert mode, 
+   esc = Switch to Command mode, 
    :wq = Save and quit/exit vi
 9. cp, cp -R = copying files from one location to another
 10. mv = move a file from one location to another
