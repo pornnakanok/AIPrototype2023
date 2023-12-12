@@ -4,14 +4,14 @@ def parse_input():
     parser = argparse.ArgumentParser()
 
     parser.add_argument(
-        'num',
+        '--num',
         type=int,
         required=True,
         help='Input for the multiplyby9 function'
     )
 
     parser.add_argument(
-        'xx',
+        '--xx',
         type=int,
         default=7,
         help='Input for xx'
