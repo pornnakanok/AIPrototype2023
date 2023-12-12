@@ -9,6 +9,14 @@ def parse_input():
         required=True,
         help='Input for the multiplyby9 function'
     )
+
+    parser.add_argument(
+        '--xx',
+        type=int,
+        default=7,
+        help='Input for xx'
+    )
+    
     args = parser.parse_args()
     return args
 
@@ -20,7 +28,7 @@ def multiplyby9(inputV):
 
 if __name__ == "__main__":
     input_v = parse_input()
-    print(f'the input num is {input_v.num}')
+    print(f'the input xx is {input_v.xx}')
     print('You are in the main function')
-    multiplyby9(20)
+    multiplyby9(input_v.num)
     printHello()
