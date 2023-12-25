@@ -20,3 +20,5 @@ if __name__ == "__main__":
     out, err = process_output.communicate()
     print(out.decode('utf-8'))
     print(len(out.decode('utf-8')))
+
+    ##HW เขียน subprocess sum output ทั้งหมดของ command 3 อันข้างบน (ตัวเลขก่อน Hello world!)
