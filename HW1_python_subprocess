@@ -1,0 +1,29 @@
+import subprocess
+
+def run_subprocess(num, xx):
+    result = subprocess.run(["python", "firstpy.py", "--num", str(num), "--xx", str(xx)], capture_output=True, text=True)
+    return result.stdout.strip()
+
+if __name__ == "__main__":
+    # Initialize sum
+    total_sum = 0
+
+    # First run
+    output = run_subprocess(100, 90)
+    print(f'first run output: {output}')
+    total_sum += int(output.split()[-1])
+
+    # Second run
+    output = run_subprocess(-10, -90)
+    print(f'second run output: {output}')
+    total_sum += int(output.split()[-1])
+
+    # Third run
+    output = run_subprocess(0, 0)
+    print(f'third run output: {output}')
+    total_sum += int(output.split()[-1])
+
+    # Print the total sum
+    print(f'Total sum of outputs: {total_sum}')
+
+
