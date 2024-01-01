@@ -26,6 +26,7 @@ def main():
     sum_first_run = extract_and_sum(output1)
     total_sum += sum_first_run
     print(f"Sum of values in the first run: {sum_first_run}")
+    subprocess.run(["python","firstpy.py", "--num", "100","--xx", "90"])
     print("-"*80)
 
     # Second run
@@ -33,6 +34,7 @@ def main():
     sum_second_run = extract_and_sum(output2)
     total_sum += sum_second_run
     print(f"Sum of values in the second run: {sum_second_run}")
+    subprocess.run(["python","firstpy.py", "--num", "-10","--xx", "-90"])
     print("-"*80)   
 
     # Third run
@@ -40,6 +42,7 @@ def main():
     sum_third_run = extract_and_sum(output3)
     total_sum += sum_third_run
     print(f"Sum of values in the third run: {sum_third_run}")
+    subprocess.run(["python","firstpy.py", "--num", "0"])
     print("-"*80)
 
     print(f"Total sum across all runs: {total_sum}")
