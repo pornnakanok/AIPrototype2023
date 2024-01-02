@@ -9,7 +9,7 @@ def run_script(num, xx):
     return output
 
 def extract_and_sum(output):
-    matches = re.findall(r'We are in the main function\n(\S+)', output)
+    matches = re.findall(r'You are in the main function\n(\S+)', output)
     values = [int(match) for match in matches]
     return sum(values)
 
@@ -38,7 +38,7 @@ def main():
     print("-"*80)   
 
     # Third run
-    output3 = run_script(0, 0)  # Adjust values as needed
+    output3 = run_script(0, args.xx)  # Adjust values as needed
     sum_third_run = extract_and_sum(output3)
     total_sum += sum_third_run
     print(f"Third run num = 0")
