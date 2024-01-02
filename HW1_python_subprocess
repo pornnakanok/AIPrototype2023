@@ -30,10 +30,10 @@ def main():
     print("-"*80)
 
     # Second run
-    output2 = run_script(-10, -90)
+    output2 = run_script(-10, -9)
     sum_second_run = extract_and_sum(output2)
     total_sum += sum_second_run
-    print(f"Second run num = -10 xx= -90")
+    print(f"Second run num = -10 xx= -9")
     subprocess.run(["python","firstpy.py", "--num", "-10","--xx", "-90"])
     print("-"*80)   
 
