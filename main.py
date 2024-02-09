@@ -29,14 +29,14 @@ def helloyoke():
 @app.route("/home", methods=['POST', 'GET'])
 def homefn():
     if request.method == "GET":
-     print('We are in home(GET)', file=sys.stdout)
+     print('We are in home2(GET)', file=sys.stdout)
 
      namein = request.args.get('fname')
      print(namein, file=sys.stdout)
      return render_template("home2.html",name=namein)
     
     elif request.method == "POST":
-       print('We are in home(POST)', file=sys.stdout)
+       print('We are in home2(POST)', file=sys.stdout)
        namein = request.form.get('fname')
        lastnamein = request.form.get('lname')
        print(namein, file=sys.stdout)
