@@ -1,20 +1,19 @@
 # AIPrototype2023
 
-Pornnakanok Phuphatham
+Pornnakanok Phuphatham 633020446-7
 
-1. ls = list file
-2. pwd = print working directory
-3. mkdir = create folder, make a director
-4. cd = change directory
-5. cd.. = changing directory 1 step, cd../.. = changing directory 2 step
-6. clear = clear
-7. rm -R, rm = remove the file from a directory
-8. vi = Open or edit a file, 
-   i = Switch to Insert mode, 
-   esc = Switch to Command mode, 
-   :wq = Save and quit/exit vi
-9. cp, cp -R = copying files from one location to another
-10. mv = move a file from one location to another
-11. ctlr c = cancel 
-12. cat (file name) = reads data from the file
-13. man (command name) = display the user manual of any command that we can run on the terminal
+# Content
+## Lecture คำสั่งพื้นฐาน Ubuntu ([*link*]())
+
+---
+## Lecture Deep learning ([*link*]())
+
+---
+## Webpage ([*link*](https://github.com/pornnakanok/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs))
+
+---
+## Web Application ([*link*]())
+
+---
+
+
