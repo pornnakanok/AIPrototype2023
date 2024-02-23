@@ -17,8 +17,8 @@ Pornnakanok Phuphatham 633020446-7
 - Link web page Project ([*link*]())
 
 ---
-## Web Application ([*link*]())
-- Link web page Project ([*link*]())
+## Web Application
+- Link web application ([*link*]())
 
 ---
 
