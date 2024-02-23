@@ -17,7 +17,7 @@ Pornnakanok Phuphatham 633020446-7
 - Link web page Project ([*link*]())
 
 ---
-## Web Application ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Lecture%20web.pdf))
+## Web Application ([*link*]())
 - Link web page Project ([*link*]())
 
 ---
