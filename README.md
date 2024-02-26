@@ -4,7 +4,7 @@ Pornnakanok Phuphatham 633020446-7
 
 # Content
 ## Lecture Ubuntu ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Ubuntu.pdf))
-- คำสั่งพื้นฐาน Ubuntu ที่เรียน
+- คำสั่ง Ubuntu ที่เรียน (คำสั่งพื้นฐาน, screen, git clone ฯลฯ)
 
 ---
 ## Lecture Deep learning ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Deep%20Learning.pdf))
