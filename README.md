@@ -9,7 +9,7 @@ Pornnakanok Phuphatham 633020446-7
 ---
 ## Lecture Deep learning ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Deep%20Learning.pdf))
 - Convolutional neural network filter
-- Tensorflow (Deep learning Implementation) ([*link*](https://colab.research.google.com/drive/1JrJnNu0ZxMLpNoZnMf5MyJ5kJItY5DV_?authuser=2#scrollTo=NgsDBxVQ8UUI))
+- Tensorflow (Deep learning Implementation) ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Tensorflow_%28Deep_learning_Implementation%29.ipynb))
 
 ---
 ## Webpage ([*link*](https://github.com/pornnakanok/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs))
