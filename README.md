@@ -19,7 +19,7 @@ Pornnakanok Phuphatham 633020446-7
 - Subprocess ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/python_subprocess.py))
   - HW subprocess ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/HW1_python_subprocess))
 - Lecture web ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Lecture%20web.pdf))
-- Webpage ที่ทำตอนเรียน ([*link*](https://github.com/pornnakanok/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs))
+- Github Webpage ที่ทำตอนเรียน ([*link*](https://github.com/pornnakanok/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs))
 - Link web page Project ([*Webpage*](https://www.google.com/url?q=https://nattntn.github.io/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs/&sa=D&source=editors&ust=1708959026730780&usg=AOvVaw3Hmm8nhY3QIE8zwzA1zlUt))
 - Github web page project ([*link*](https://github.com/nattntn/DentAI_webpage))
 
