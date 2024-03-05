@@ -3,12 +3,12 @@
 Pornnakanok Phuphatham 633020446-7
 
 # Content
-## Lecture Ubuntu ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Ubuntu.pdf))
-- คำสั่ง Ubuntu ที่เรียน (คำสั่งพื้นฐาน, screen, git clone ฯลฯ)
+## Lecture Ubuntu
+- คำสั่ง Ubuntu ที่เรียน (คำสั่งพื้นฐาน, screen, git clone ฯลฯ) ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Ubuntu.pdf))
 
 ---
-## Lecture Deep learning ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Deep%20Learning.pdf))
-- Convolutional neural network filter
+## Lecture Deep learning 
+- Lecture ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Deep%20Learning.pdf))
 - Tensorflow (Deep learning Implementation) ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Tensorflow_%28Deep_learning_Implementation%29.ipynb))
 
 ---
