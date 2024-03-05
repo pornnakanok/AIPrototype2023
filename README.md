@@ -13,6 +13,8 @@ Pornnakanok Phuphatham 633020446-7
 
 ---
 ## Webpage ([*link*](https://github.com/pornnakanok/Interpretable_Deep_Neural_Networks_for_Age_and_Gender_Estimation_via_Panoramic_Radiographs))
+- Python
+  - firstpy ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/firstpy.py))
 - Subprocess ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/python_subprocess.py))
   - HW subprocess ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/HW1_python_subprocess))
 - Lecture web ([*link*](https://github.com/pornnakanok/AIPrototype2023/blob/main/Lecture%20web.pdf))
